@@ -69,7 +69,7 @@ AS
                 ELSE 'Commercial_Client' END AS	SourceTable
 	,			A.[As of]						AsOfDate
 	,			'Non-Term'						DepositType
-	,			A.[Account Number]				AccountNumber
+	,			A.[Account Number]				AccountNumberRRRRRRRRRRRRRRRRRRRRR
 	,			null							CIF_NO
 	,			A.Product						ProductType
 	,			A.[Product Type]				SubproductType
