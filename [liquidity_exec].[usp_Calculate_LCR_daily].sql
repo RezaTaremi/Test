@@ -77,7 +77,7 @@ BEGIN
 	,			@BrokeredHISA_MaxTradeDate			date	
 	--
 	--	
-	,			@LegalEntity_ShortName_TD		varchar(30)		=	'TD'	
+	,			@LegalEntity_ShortName_TD		varchar(30)		=	'BMO'	
 	--	
 	--
 	,			@OSFI_NewTemplate_EffectiveDate				date			=	'2020-02-01'
